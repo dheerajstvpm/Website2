@@ -4,7 +4,7 @@ body{
     width: 100%;
 }
 header{
-    height: 80px;
+    height: 100px;
     background-color: aquamarine;
 }
 .headerImage{
@@ -38,5 +38,39 @@ img[alt='DarkmodeLogo']{
     color: white;
     font-size: medium;
     border-radius: 7px;
-    border: transparent;
+    border: #19766e;
+}
+.div1{
+    float: left;
+    height: 800px;
+    width: 100%;
+    background-color: bisque;
+    text-align: center;
+}
+#ViewFullCurriculum{
+    width: 200px;
+    height: 40px;
+    background-color: #19766e;
+    color: white;
+    font-size: medium;
+    border-radius: 7px;
+    border: #19766e;
+}
+#YourCareer{
+    color: #ce973e;
+    font-size: 225%;
+    font-weight: 300;
+}
+.div2{
+    float: left;
+    width: 100%;
+    height: 800px;
+    background-color: aquamarine;
+}
+.div2-1{
+    width: 100%;
+    text-align: center;
+}
+.div2-2{
+    width: 100%;
 }
