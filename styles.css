@@ -1,0 +1,42 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    width: 100%;
+}
+header{
+    height: 80px;
+    background-color: aquamarine;
+}
+.headerImage{
+    width: 50%;
+    float: left;
+}
+.headerOptions{
+    width: 50%;
+    float: left;
+}
+.headerLink{
+    float: left;
+    margin-left:40px;
+    margin-top: 13px;
+    color: #5b6e78;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 100%;
+}
+img[alt='DarkmodeLogo']{
+    float: right;
+}
+#AllPaths{
+    margin-left: -40px;
+}
+#GetStarted{
+    margin-top: 10px;
+    width: 115px;
+    height: 40px;
+    background-color: #19766e;
+    color: white;
+    font-size: medium;
+    border-radius: 7px;
+    border: transparent;
+}
