@@ -81,14 +81,14 @@ img[alt='div1image']{
 .div2{
     float: left;
     width: 100%;
-    height: 800px;
+    height: 850px;
     text-align: center;
 }
 .div2-1{
     margin-top: 75px;
     float: left;
     width: 100%;
-    height: 300px;
+    height: 340px;
 }
 #howitworks{
     font-size: 150%;
@@ -100,6 +100,7 @@ img[alt='div1image']{
     font-size: 110%;
     font-weight: 400; 
     color: #4b5563;
+    line-height: 30px;
 }
 .div2-2{
     float: left;
@@ -122,7 +123,8 @@ img[alt='div1image']{
     color: #212529;
 }
 .cardscontent{
-    color: #9ea3aa;
+    color: #4b5563;
+    line-height: 30px;
     font-size: 115%;
 }
 .div3{
@@ -338,7 +340,7 @@ img[alt="github-logo"]{
 }
 #submit{
     height: 40px;
-    width: 150px;
+    width: 140px;
     border: #19766e;
     border-radius: 5px;
     background-color: #19766e;
