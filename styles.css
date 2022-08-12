@@ -5,6 +5,7 @@ body{
 }
 header{
     height: 100px;
+    width: 100%;
     background-color: aquamarine;
 }
 .headerImage{
@@ -41,13 +42,28 @@ img[alt='DarkmodeLogo']{
     border: #19766e;
 }
 .div1{
+    padding-top: 40px;
     float: left;
-    height: 800px;
+    height: 807px;
     width: 100%;
     background-color: bisque;
     text-align: center;
 }
+#YourCareer{
+    color: #ce973e;
+    font-size: 215%;
+    font-weight: 300;
+}
+#OurFullStack{
+    margin-top: -20px;
+    color: #4b5563;
+    font-size: 120%;
+}
+#LastUpdate{
+    color: #9d9d9d;
+}
 #ViewFullCurriculum{
+    margin-top: 60px;
     width: 200px;
     height: 40px;
     background-color: #19766e;
@@ -61,26 +77,208 @@ img[alt='DarkmodeLogo']{
     font-size: 225%;
     font-weight: 300;
 }
+img[alt='div1image']{
+    margin-top: 50px;
+}
 .div2{
     float: left;
     width: 100%;
     height: 800px;
+    text-align: center;
     background-color: aquamarine;
 }
 .div2-1{
+    margin-top: 75px;
     float: left;
     width: 100%;
-    height: 400px;
-    text-align: center;
+    height: 300px;
+}
+#howitworks{
+    font-size: 150%;
+    font-weight: 600;
+    color: #212529;
+}
+#div2-1content{
+    margin-top: 50px;
+    font-size: 110%;
+    font-weight: 400; 
+    color: #4b5563;
 }
 .div2-2{
     float: left;
-    height: 400px;
-    width: 100%;
-    padding: 0 12.5%;
+    height: 600px;
+    width: 90%;
+    padding:0 5% ;
 }
 .cards{
     float: left;
-    width: 25%;
+    width: 27%;
     height: 400px;
+    margin-left: 5%;
+}
+.cardsimg{
+    height: 165px;
+}
+.cardsheading{
+    font-size: 125%;
+    font-weight: 600;
+    color: #212529;
+}
+.cardscontent{
+    color: #9ea3aa;
+    font-size: 115%;
+}
+.div3{
+    float: left;
+    text-align: center;
+    height: 1140px;
+    width: 100%;
+    background-color: antiquewhite;
+}
+.learnEverything{
+    float: left;
+    height: 120px;
+    width: 100%;
+    padding-top: 35px;
+    font-size: 150%;
+    font-weight: 700;
+}
+.div3-2{
+    float: left;
+    height: 270px;
+    width: 66%;
+    margin: 0 17%;
+}
+.cards2{
+    float: left;
+    text-align: center;
+    font-weight: 650;
+    font-size: 105%;
+    color: black;
+    padding-top: 20px;
+    margin-left: 3%;
+    background-color:white;
+    width: 254px;
+    height: 220px;
+    box-shadow: 0 7px 16px 0 rgb(0 0 0 / 5%);
+}
+.cards3{
+    float: left;
+    text-align: center;
+    font-weight: 650;
+    font-size: 105%;
+    color: black;
+    padding-top: 20px;
+    margin-left: 3%;
+    background-color:white;
+    width: 254px;
+    height: 245px;
+    box-shadow: 0 7px 16px 0 rgb(0 0 0 / 5%);
+}
+
+.cards2img{
+    width: 160px;
+    height: 160px;
+    margin-bottom: -10px;
+}
+.div3-3{
+    float: left;
+    height: 295px;
+    width: 66%;
+    margin: 0 17%;
+}
+.div3-4{
+    float: left;
+    height: 270px;
+    width: 43%;
+    margin: 0 28.5%;
+}
+.GetStarted2{
+    float: left;
+    margin-top: 30px;
+    width: 100%;
+    height: 100px;
+}
+#GetStarted2{
+    margin-top: 10px;
+    width: 135px;
+    height: 50px;
+    background-color: #ce973e;
+    color: white;
+    font-size: medium;
+    border-radius: 7px;
+    border: #ce973e;
+}
+.div4{
+    float: left;
+    width: 100%;
+    height: 930px;
+    background-image: linear-gradient(white 20%, #eeeeee 100%);
+}
+.div4heading{
+    margin-top: 70px;
+    margin-bottom: 80px;
+    font-size: 150%;
+    font-weight: 650;
+    text-align: center;
+}
+.div4cards{
+    float: left;
+    width: 100%;
+    height: 280px;
+}
+.alumni{
+    margin-left: 2%;
+    float: left;
+    width: 48%;
+    height: 200px;
+}
+.div4img{
+    float: left;
+    margin-top: 35px;
+    width: 8%;
+    border-radius: 100%;
+}
+.div4cardtext{
+    margin-left: 4%;
+    float: left;
+    width: 88%;
+}
+.namelink{
+    font-size: 120%;
+    color: #ce973e;
+    text-decoration: none;
+}
+.alumnicontent{
+    font-size: 115%;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #596473;
+    margin-top: -15px;
+    margin-right: 5%;
+}
+.div4end{
+    float: left;
+    width: 100%;
+    height: 200px;
+    padding-top: 150px;
+    text-align: center;
+}
+#readmore{
+    color: #7d7d7d;
+}
+#startlearning{
+    margin-top: 75px;
+    color: #4b5563;
+    font-size: 190%;
+    font-weight: 300;
+}
+.Signup{
+    background-color: #19766e;
+    width: 110px;
+    color: white;
+    height: 50px;
+    font-size: 105%;
+    border: #19766e;
+    border-radius: 5px;
 }
