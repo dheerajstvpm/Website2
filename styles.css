@@ -300,18 +300,12 @@ footer{
 }
 .emaildiv{
     float: left;
-    height: 200px;
+    height: 230px;
     margin-left: 5%;
     width: 40%;
     background-color: #f3f4f6;
     border-radius: 5px;
     padding-left: 3%;
-}
-
-.footerdiv2{
-    float: left;
-    height: 50px;
-    width: 100%;
 }
 .footerimg{
     height: 35px;
@@ -347,20 +341,26 @@ img[alt="github-logo"]{
     color: white;
     font-size: 105%;
 }
-.footer2{
+.footerdiv2{
     float: left;
-    height: 85px;
-    bottom: 0;
-    position:fixed;
+    height: 60px;
     width: 100%;
-}
-#footer2img{
-    float: right;
-    border-radius: 100%;
-    margin-right: 20px;
 }
 .footerlinks{
     text-decoration: none;
     color: #34383b;
     margin-left: 3%;
+}
+.footer2{
+
+    height: 85px;
+    bottom: 0;
+    right: 0;
+    position:fixed;
+    width: 10%;
+}
+#footer2img{
+    float: right;
+    border-radius: 100%;
+    margin-right: 20px;
 }
