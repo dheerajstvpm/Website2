@@ -284,7 +284,7 @@ img[alt='div1image']{
 footer{
     float: left;
     width: 100%;
-    height: 505px;
+    height: 495px;
 }
 .footerdiv1{
     margin-top: 160px;
@@ -295,7 +295,7 @@ footer{
 .odindiv{
     float: left;
     line-height: 30px;
-    height: 200px;
+    height: 230px;
     width: 50%;
 }
 .emaildiv{
@@ -343,8 +343,9 @@ img[alt="github-logo"]{
 }
 .footerdiv2{
     float: left;
-    height: 60px;
+    height: 45px;
     width: 100%;
+
 }
 .footerlinks{
     text-decoration: none;
@@ -352,7 +353,6 @@ img[alt="github-logo"]{
     margin-left: 3%;
 }
 .footer2{
-
     height: 85px;
     bottom: 0;
     right: 0;
@@ -363,4 +363,5 @@ img[alt="github-logo"]{
     float: right;
     border-radius: 100%;
     margin-right: 20px;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0,0.2);
 }
