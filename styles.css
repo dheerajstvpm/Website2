@@ -311,6 +311,11 @@ footer{
     height: 35px;
     margin-left: 9%;
 }
+img[alt="discord-icon"]{
+    position: relative;
+    top: 8px;
+    height: 50px;
+}
 img[alt="github-logo"]{
     margin-left: 5%;
 }
