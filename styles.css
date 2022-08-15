@@ -310,6 +310,7 @@ footer{
 .footerimg{
     height: 35px;
     margin-left: 9%;
+    opacity: 0.75;
 }
 img[alt="discord-icon"]{
     position: relative;
